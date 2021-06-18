@@ -7,7 +7,7 @@
 
   - [![Windows](https://img.shields.io/badge/Windows10-0078d7?style=flat-square&logo=windows&logoColor=fff)](https://blogs.windows.com/)  [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)  [![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)](https://www.centos.org/)
 
-  - [![STM](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)](https://www.st.com/)  [![BCM](https://img.shields.io/badge/BCM-CC092F?style=flat-square&logo=Broadcom&logoColor=fff)](https://www.broadcom.com/)  [![QCM](https://img.shields.io/badge/Qualcomm-3253DC?style=flat-square&logo=Qualcomm&logoColor=fff)](https://www.qualcomm.com/)
+  - [![STM](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)](https://www.st.com/)  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)](https://www.arduino.cc/)  [![BCM](https://img.shields.io/badge/BCM-CC092F?style=flat-square&logo=Broadcom&logoColor=fff)](https://www.broadcom.com/)  [![QCM](https://img.shields.io/badge/Qualcomm-3253DC?style=flat-square&logo=Qualcomm&logoColor=fff)](https://www.qualcomm.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lunzhiPenxil)
 
