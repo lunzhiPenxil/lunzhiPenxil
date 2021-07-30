@@ -9,6 +9,6 @@
 
   - [![STM](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)](https://www.st.com/)  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)](https://www.arduino.cc/)  [![BCM](https://img.shields.io/badge/BCM-CC092F?style=flat-square&logo=Broadcom&logoColor=fff)](https://www.broadcom.com/)  [![QCM](https://img.shields.io/badge/Qualcomm-3253DC?style=flat-square&logo=Qualcomm&logoColor=fff)](https://www.qualcomm.com/)
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=lunzhiPenxil&layout=compact&langs_count=10&hide=html,TeX,XSLT,batchfile&exclude_repo=CnC_Remastered_Collection)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=lunzhiPenxil&layout=compact&langs_count=10&hide=html,TeX,XSLT,CSS,batchfile&exclude_repo=CnC_Remastered_Collection)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lunzhiPenxil)
