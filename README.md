@@ -5,7 +5,7 @@
 ### 你好 Greetings
 我是仑质，本职工作是高端路由器驱动软件工程师，主要使用C语言，所以由于保密属性通常不会在工作之外使用C语言开发开源项目。  
 目前主要的开源项目工作重心为[OlivOS](https://github.com/OlivOS-Team/OlivOS)、[OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)。  
-欢迎加入我的项目一同进行开发
+欢迎加入我的项目一同进行开发！
 
 ### 工具链&技术栈
   - [![CPP](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](http://www.cplusplus.com/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)  [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.javascript.com/)  [![H5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](http://www.w3.org/TR/html5/)
