@@ -13,5 +13,3 @@
   - [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)](https://www.vim.org/)  [![vsc](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)  [![vs](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
   - [![STM](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)](https://www.st.com/)  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)](https://www.arduino.cc/)  [![BCM](https://img.shields.io/badge/BCM-CC092F?style=flat-square&logo=Broadcom&logoColor=fff)](https://www.broadcom.com/)  [![QCM](https://img.shields.io/badge/Qualcomm-3253DC?style=flat-square&logo=Qualcomm&logoColor=fff)](https://www.qualcomm.com/)
-
-![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
