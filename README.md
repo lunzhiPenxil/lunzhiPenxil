@@ -3,7 +3,7 @@
 </a>
 
 ### 你好 Greetings
-我是仑质，本职工作是高端路由器驱动软件工程师，主要使用C语言，所以由于保密属性通常不会在工作之外使用C语言开发开源项目。  
+我是仑质，本职工作是嵌入式设备驱动软件工程师，主要使用C语言，所以由于保密属性通常不会在工作之外使用C语言开发开源项目。  
 目前主要的开源项目工作重心为[OlivOS](https://github.com/OlivOS-Team/OlivOS)、[OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)。  
 欢迎加入我的项目一同进行开发！
 
